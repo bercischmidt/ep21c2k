@@ -1,5 +1,6 @@
 print('1. feladat: Az adatok beolvasása.')
 
+
 f = open('valaszok.txt', 'r')
 
 adatok11 = []
